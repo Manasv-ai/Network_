@@ -1,0 +1,18 @@
+[2025-11-09 20:27:32,066] 18 root - INFO- Initiate the data ingestion
+[2025-11-09 20:29:23,865] 68 root - INFO- Performed train test split on the dataframe
+[2025-11-09 20:29:23,865] 70 root - INFO- Exited split_data_as_train_test method of Data_Ingestion class
+[2025-11-09 20:29:23,866] 78 root - INFO- Exporting train and test file path.
+[2025-11-09 20:29:23,961] 87 root - INFO- Exported train and test file path.
+[2025-11-09 20:29:23,962] 22 root - INFO- Data initiation completed
+[2025-11-09 20:29:24,006] 25 root - INFO- Initiate the data validation
+[2025-11-09 20:29:24,100] 32 root - INFO- Required no of columns: 31
+[2025-11-09 20:29:24,100] 33 root - INFO- Dataframe has columns: 31
+[2025-11-09 20:29:24,100] 32 root - INFO- Required no of columns: 31
+[2025-11-09 20:29:24,101] 33 root - INFO- Dataframe has columns: 31
+[2025-11-09 20:29:24,373] 44 root - INFO- Entered initiate-data-transformation function of data transformation class
+[2025-11-09 20:29:24,373] 46 root - INFO- Starting data transformation
+[2025-11-09 20:29:24,495] 34 root - INFO- Entered get_data_transformer_object method of transformation
+[2025-11-09 20:29:24,495] 37 root - INFO- Initialised knn imputer 
+[2025-11-09 20:29:24,513] 44 root - INFO- Entered the save_object class
+[2025-11-09 20:29:24,516] 49 root - INFO- Exited the save_object class
+[2025-11-09 20:29:24,518] 34 root - INFO- model training started 
